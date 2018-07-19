@@ -10,14 +10,14 @@
 
 /* basic elements */
 html {
-	margin: 0;
+	margin: 0px;
 	padding: 0;
 	}
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #555753; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+	color: #00d9ff; 
+	background: rgb(110, 17, 153) url(https://i.pinimg.com/236x/39/10/c7/3910c73af7423362ac3ac2c7fa6c6546--godzilla-pixel-art.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
 	}
@@ -52,7 +52,7 @@ abbr {
 
 /* specific divs */
 .page-wrapper { 
-	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
+	background: url() no-repeat top left; 
 	padding: 0 175px 0 110px;  
 	margin: 0; 
 	position: relative;
@@ -64,11 +64,11 @@ abbr {
 	}
 
 header h1 { 
-	background: transparent url(http://csszengarden.com/001/h1.gif) no-repeat top left;
+	background: transparent url(https://orig00.deviantart.net/8444/f/2015/008/e/b/bilbo_and_smaug_by_miichih-d8d2yod.png) no-repeat top left;
 	margin-top: 10px;
 	display: block;
-	width: 219px;
-	height: 87px;
+	width: 319px;
+	height: 207px;
 	float: left;
 
 	text-indent: 100%;
@@ -76,7 +76,7 @@ header h1 {
 	overflow: hidden;
 	}
 header h2 { 
-	background: transparent url(http://csszengarden.com/001/h2.gif) no-repeat top left; 
+	background: transparent url() no-repeat top left; 
 	margin-top: 58px; 
 	margin-bottom: 40px; 
 	width: 200px; 
